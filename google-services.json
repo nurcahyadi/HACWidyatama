@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "90566339496",
+    "firebase_url": "https://coba-4bc2f.firebaseio.com",
+    "project_id": "coba-4bc2f",
+    "storage_bucket": "coba-4bc2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90566339496:android:a80d920162b63351",
+        "android_client_info": {
+          "package_name": "com.example.android.hac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90566339496-o9s3kjhes1kd68ggjbmd48q7kqpok164.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.hac",
+            "certificate_hash": "a630444ea92864389ebb3241bcfcd768d4be9a80"
+          }
+        },
+        {
+          "client_id": "90566339496-ah72gv520ipinhrna028g0lh5k6k6tmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9u0-UBoKYTEbIRsK_jh9GrGCu2rgZ504"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90566339496-ah72gv520ipinhrna028g0lh5k6k6tmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

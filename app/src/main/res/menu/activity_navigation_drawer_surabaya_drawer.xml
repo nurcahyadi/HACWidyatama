@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/menu_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_sejarah"
+            android:icon="@mipmap/menu_sejarah"
+            android:title="Sejarah" />
+        <item
+            android:id="@+id/nav_budaya"
+            android:icon="@mipmap/menu_budaya"
+            android:title="Budaya" />
+        <item
+            android:id="@+id/nav_store"
+            android:icon="@mipmap/menu_store"
+            android:title="Store" />
+        <item
+            android:id="@+id/nav_event"
+            android:icon="@mipmap/menu_event"
+            android:title="Event" />
+
+    </group>
+
+    <item android:title="Services">
+        <menu>
+
+            <item
+                android:id="@+id/nav_signout"
+                android:icon="@mipmap/menu_signout"
+                android:title="Sign Out" />
+        </menu>
+    </item>
+
+</menu>
